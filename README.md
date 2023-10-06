@@ -31,8 +31,8 @@ Berikut beberapa contoh untuk mengilustrasikan bagaimana checker ini menangani b
 
 Kamu bisa ngoding dan melakukan testing langsung di [Palindrome Checker project build](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker).  
 
-Jika string yang kamu input itu palindrome maka output di **console** adalah `true`
-Jika string yang kamu input itu bukan palindrome maka output di **console** adalah `false`  
+Jika string yang kamu input itu palindrom maka output di **console** adalah `true`
+Jika string yang kamu input itu bukan palindrom maka output di **console** adalah `false`  
 
 
 Semangat dan selamat mencoba! 🚀📜  
