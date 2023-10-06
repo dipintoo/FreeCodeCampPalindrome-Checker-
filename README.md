@@ -32,11 +32,11 @@ Berikut beberapa contoh untuk mengilustrasikan bagaimana checker ini menangani b
 Kamu bisa ngoding dan melakukan testing langsung di [Palindrome Checker project build](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker).  
 
 
-## Contoh Proyek
+## Contoh Codingan Jadi
 
 Kalo mau lihat codingan saya bisa click link di About ya 😀
 
-Gunakan Palindrome Checker ini untuk memeriksa apakah string yang kamu input itu palindrom atau tidak. Selamat mencoba! 🚀📜  
+Gunakan Palindrome Checker ini untuk memeriksa apakah string yang kamu input itu palindrom atau tidak. Semangat dan selamat mencoba! 🚀📜  
 
 
 [***Next Project - [2/5] Tribute Page >>***](https://github.com/dipintoo/freeCodeCamp_Tribute-Page)
