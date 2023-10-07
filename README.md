@@ -16,7 +16,7 @@ Untuk menentukan apakah sebuah string adalah palindrom, checker ini melakukan ha
 
 3. **Pembandingan:** Setelah membersihkan dan memformat string input, checker ini membandingkannya dengan versi terbaliknya. Jika keduanya sama, maka string tersebut dianggap sebagai palindrom; jika tidak, maka bukan.
 
-## Contoh Input String
+## Contoh
 
 Berikut beberapa contoh untuk mengilustrasikan bagaimana checker ini menangani berbagai jenis string:
 
